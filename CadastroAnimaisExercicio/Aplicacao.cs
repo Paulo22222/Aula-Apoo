@@ -2,6 +2,8 @@ namespace CadastroAnimaisExercicio;
 
 public class Aplicacao
 {
+    private List<Animal> animais = new List<Animal>();
+
     public void Executar()
     {
         while (true)
@@ -53,17 +55,53 @@ public class Aplicacao
 
     private static void CadastrarAnimal()
     {
-        // TODO: implementar a opção 1.
+        LimparConsole();
+        Console.WriteLine("=== Cadastrar Animal ===");
+
+        var nome = LerTexto("Nome: ");
+        var especie = LerTexto("Espécie: ");
+        var idade = LerInteiro("Idade: ");
+
+        var animal = new Animal(nome, especie, idade);
+        Console.WriteLine("\nAnimal cadastrado com sucesso!");
+        animais.Add(animal);
     }
 
-    private static void ListarAnimais()
+  
+   
+
+    private void ListarAnimais()
     {
-        // TODO: implementar a opção 2.
+        LimparConsole();
+        Console.WriteLine("=== Lista de Animais ===\n");
+
+        if (_animais.Count == 0)
+        {
+            Console.WriteLine("Nenhum animal cadastrado.");
+            return;
+        }
+
+        for (int i = 0; i < _animais.Count; i++)
+        {
+            Console.Write($"{i + 1} - ");
+            animais[i].ExibirDados();
+        }
     }
 
     private static void BuscarAnimal()
     {
-        // TODO: implementar a opção 3.
+        LerTexto("Digite o nome do animal que deseja buscar: ");
+        foreach (var animal in animais)
+        {
+            if (animal.Nome.Equals(nomeBusca, StringComparison.OrdinalIgnoreCase))
+            {
+                Console.WriteLine("\nAnimal encontrado:");
+                animal.ExibirDados();
+                return;
+            }
+        }
+
+        Console.WriteLine("\nAnimal não encontrado.");
     }
 
     private static void AlterarIdade()
@@ -74,6 +112,7 @@ public class Aplicacao
     private static void FazerAnimalEmitirSom()
     {
         // TODO: implementar a opção 5.
+       
     }
 
     private static string LerTexto(string mensagem)
