@@ -1,0 +1,15 @@
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\bin\Debug\net10.0\CadastroAnimaisExercicio.exe
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\bin\Debug\net10.0\CadastroAnimaisExercicio.deps.json
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\bin\Debug\net10.0\CadastroAnimaisExercicio.runtimeconfig.json
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\bin\Debug\net10.0\CadastroAnimaisExercicio.dll
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\bin\Debug\net10.0\CadastroAnimaisExercicio.pdb
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.AssemblyInfoInputs.cache
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.AssemblyInfo.cs
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.csproj.CoreCompileInputs.cache
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.sourcelink.json
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.dll
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\refint\CadastroAnimaisExercicio.dll
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.pdb
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\CadastroAnimaisExercicio.genruntimeconfig.cache
+C:\Users\IFTM\source\repos\Paulo22222\Aula-Apoo\CadastroAnimaisExercicio\obj\Debug\net10.0\ref\CadastroAnimaisExercicio.dll
